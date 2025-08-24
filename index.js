@@ -23,7 +23,7 @@ app.get("/", (req, res) => {
       </head>
       <body>
         <h1>Hello from CI/CD Demo 🚀</h1>
-        <h1>Shoaib you did it...</h1>
+        <h1>Uzair your assignment is already done!</h1>
         <p>This page is served by Express running on a self-hosted runner.</p>
         <p>Try the <a href="/api/data">/api/data</a> endpoint for JSON output.</p>
       </body>
